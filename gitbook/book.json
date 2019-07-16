@@ -1,0 +1,44 @@
+{
+    "title": "LeetCode Solutions",
+    "author": "Liu Yue",
+    "description": "Solutions for problems on website leetcode-cn.com",
+    "language": "zh-hans",
+    "gitbook": "3.2.3",
+    "structure": {
+        "readme": "README.md"
+    },
+    "links": {
+        "sidebar": {
+            "LiuYue's personal homepage": "http://www.yuetech.org/"
+        }
+    },
+    "plugins": [
+        "-sharing",
+        "github",
+        "github-buttons",
+        "donate"
+    ],
+    "pluginsConfig": {
+        "github": {
+            "url": "https://github.com/sulphur-moon"
+        },
+        "github-buttons": {
+            "buttons": [{
+                "user": "sulphur-moon",
+                "repo": "LeetCode-Solutions",
+                "type": "star",
+                "size": "small",
+                "count": true
+                }
+            ]
+        },
+        "donate": {
+            "wechat": "./donate/wechat.jpg",
+            "alipay": "./donate/alipay.jpg",
+            "title": "恭喜发财",
+            "button": "赞赏",
+            "alipayText": "支付宝打赏",
+            "wechatText": "微信打赏"
+        }
+    }
+}
