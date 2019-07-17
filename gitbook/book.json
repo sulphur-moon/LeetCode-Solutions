@@ -33,12 +33,12 @@
             ]
         },
         "donate": {
-            "wechat": "./donate/wechat.jpg",
-            "alipay": "./donate/alipay.jpg",
-            "title": "恭喜发财",
-            "button": "赞赏",
-            "alipayText": "支付宝打赏",
-            "wechatText": "微信打赏"
+            "wechat": "http://qiniu.wenyuetech.cn/donate-wechat.jpg",
+            "alipay": "http://qiniu.wenyuetech.cn/donate-alipay.jpg",
+            "title": "",
+            "button": "赞",
+            "alipayText": "",
+            "wechatText": ""
         }
     }
 }
